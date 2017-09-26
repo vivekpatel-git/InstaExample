@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/wmtandroid5/Downloads/InstaExample/library/build/intermediates/res/merged/androidTest/debug/layout/activity_main.xml",
+        "source": "/home/wmtandroid5/Downloads/InstaExample/library/build/intermediates/bundles/debug/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/techflitter/AndroidProjects/InstaExample/library/build/intermediates/res/merged/androidTest/debug/layout/activity_main.xml",
+        "source": "/home/techflitter/AndroidProjects/InstaExample/library/build/intermediates/bundles/debug/res/layout/activity_main.xml"
+    }
+]

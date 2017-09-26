@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/.android/build-cache/f1fd3c7d1e45ea7ee4f27cf5b1ad4f9e659b7bfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/classes_11d94d504956633e0cf5bfe4538b0444d89f0849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/.android/build-cache/74a076c0f630019e6bdfefc6d7c4233b33fa3c3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/classes_5501e9d94f9499c922ef4ffaffe63e8efc53fda5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/.android/build-cache/22e5897352f5d466324d4dce6fb9a6d31735168c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/classes_e2dd2e3a3a897cdf50cf624363a5293bae8f8ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/.android/build-cache/135f79070c1c7f379972080f209b904fbcabbb84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/classes_1dc1d2164e2b2b326fe248e953b5e1dc4f5ee966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/AndroidProjects/InstaExample/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4797b91173533e1140616178c0845691e4d3e8fc">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/classes_0b1acf3eb78de4b7f4fd0bdd542547b3750068d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_153f182e6a11baeeda780e6a6d322855f1649328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/.android/build-cache/8bdd0688b89e516c3e2f63c17de97e4630ff8632/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/classes_582fb96ecf68858a5e9b4271eaac7024d18825a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_4d22c0c359c6092a7a8bdd6c2a7a3f3510285518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/.android/build-cache/d62e7bcd537889ce31740d0aeb8128d70ee0cad8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/classes_30d6ba83498e93a14914e54be0eb79c006d99019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_8af1b9a8aca149346412c970de4c4fd95fa2eff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/.android/build-cache/0770c1913b6b7389ba453af75769a44f9671082b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/classes_a20fb58f918db9c48cce150ca94045424ed98a13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techflitter/.android/build-cache/0f6cc0c7a868ab73726bdb450337edb52240cecc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/techflitter/AndroidProjects/InstaExample/app/build/intermediates/pre-dexed/debug/classes_07eaf2cfb7d04412f9941f6851e0bb751e816351.jar" />
+    </item>
+
+</items>

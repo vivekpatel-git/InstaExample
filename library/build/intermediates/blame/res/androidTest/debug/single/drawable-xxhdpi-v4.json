@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/wmtandroid5/Downloads/InstaExample/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/wmtandroid5/Downloads/InstaExample/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/techflitter/AndroidProjects/InstaExample/library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/techflitter/AndroidProjects/InstaExample/library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    }
+]
