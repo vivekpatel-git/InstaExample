@@ -132,6 +132,8 @@ public class InstaUserProfileActivity extends BaseActivity {
             @Override
             public void onClick(View v) {
                 mInstagramSession.reset();
+                DatabaseHandler.getInstance(context).deleteUserMeidaAll();
+                DatabaseHandler.getInstance(context).deleteUserMeidaLocationAll();     
                 startActivity(new Intent(InstaUserProfileActivity.this, LoginActivity.class));
             }
         });
